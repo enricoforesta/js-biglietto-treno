@@ -22,11 +22,11 @@ L'output del prezzo finale va messo fuori in forma umana (con massimo due decima
 
 3. Calcolare il prezzo, kilometri inseriti * 0,21€.
 
- -- Se l'età è inferiore a 18 anni devo applichiamo lo sconto del 20%.
+       -- Se l'età è inferiore a 18 anni devo applichiamo lo sconto del 20%.
 
- -- Altrimenti Se l'età è superiore di 65 anni devo applichiamo lo sconto del 40%.
+       -- Altrimenti Se l'età è superiore di 65 anni devo applichiamo lo sconto del 40%.
 
- -- Altrimenti non si applica lo sconto.
+       -- Altrimenti non si applica lo sconto.
 
 4. Il prezzo finale dovrà essere con massimo due decimali, ES. 10,99€
 
