@@ -29,7 +29,6 @@ L'output del prezzo finale va messo fuori in forma umana (con massimo due decima
 
        -- Altrimenti non si applica lo sconto.
 
-4. 
 
 
 
