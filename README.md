@@ -20,6 +20,9 @@ L'output del prezzo finale va messo fuori in forma umana (con massimo due decima
 
 2. Chiedere all'utente l'età, salvarlo in una variabile e trasformarlo in numero.
 
+---- fare una condizione in modo che se l utente inserisce valori sbagliatidiversi da numeri, gli stampa errore.
+
+
 3. Calcolare il prezzo, kilometri inseriti * 0,21€.
    I prezzi finali dovranno essere con massimo due decimali, ES. 10,99€
 
@@ -27,7 +30,6 @@ L'output del prezzo finale va messo fuori in forma umana (con massimo due decima
 
        -- Altrimenti Se l'età è superiore di 65 anni devo applichiamo lo sconto del 40%.
 
-       -- Altrimenti non si applica lo sconto.
 
 
 
